@@ -1,0 +1,65 @@
+Technologies requied for Full Stack Developer (3+)
+--------------------------------------------------
+UI Technologies
+---------------
+HTML -> for the structure of the website
+CSS -> for applying styles
+Javascript -> client side Programming , DOM
+ES6 Features -> advanced JS
+JQuery -> JS library to simply DOM , plugins, AJAX
+AJAX -> update the browser data without refresh from server
+Bootstrap -> Library of CSS 
+Materialize CSS -> Library of CSS (alternate to Bootstrap)
+
+MEAN / MERN Stack
+------------------
+Mongo DB -> for database sevices
+Express JS -> 3rd party module of node JS
+Angular / React -> client side framework
+Node JS -> platform for server side web development
+
+Unit Testing
+------------
+Mocha , Chai , Sinon , Jasmine -> Unit testing libraries
+Protractor , Karma -> Integration Testing
+JEST framework , Istanbul -> Test Coverage Tools
+
+Code Repositories
+-----------------
+Github , CVS , SVN , IBM Clear Case
+
+Editors for Web Development
+---------------------------
+Sublime Text
+Brackets Editor
+visual Studio code
+Atom Editor
+WebStorm IDE
+Adobe Dream Weaver
+
+Project Updates
+----------------
+JIRA , Agile scrum model
+
+Graphs & Charts
+---------------
+D3 JS , C3 JS
+
+Extra Activities
+----------------
+Free Code Camp Certified Full Stack Developer
+YouTube Channel for Technical
+Personal Website
+Github Account with some useful projects
+Contribute to Open Source
+
+
+
+
+
+
+
+
+
+
+
